@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main article figure{
+    height: 284px;
+    width: 100%;
+    background-image: url('./images/illustration-sign-up-mobile.svg');
+    background-size: cover;
+}
+
+.info-container{
+    height: 100%;
+    padding: 2rem 1.5rem;
+    width: 100%;
+}
+
+.info-container__info h1{
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
